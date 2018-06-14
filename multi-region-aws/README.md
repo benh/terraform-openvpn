@@ -26,7 +26,7 @@ terraform apply -var-file desired_cluster_profile.tfvars
 * Main DC/OS cluster lives on us-east-1
 * Bursting Node lives in us-west-2
 
-### Adding or Remving Remote Nodes or Default Region Nodes
+### Adding or Removing Remote Nodes or Default Region Nodes
 
 Change the number of remote nodes in the desired cluster profile.
 
